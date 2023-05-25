@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  padding: 20px;
+  justify-content: space-evenly;
+}
+.Nav-Title {
+  font-size: x-large;
+}
+.nav-head {
+  margin-top: 2%;
+}
